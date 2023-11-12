@@ -1,5 +1,4 @@
 # Buscador de CEP
-![image](https://github.com/math-matos/Buscador-de-CEP/assets/106177721/d02416d3-dd33-4393-bcaf-56dc8190f6d8)
 ![image](https://github.com/math-matos/Buscador-de-CEP/assets/106177721/c381c6df-9584-4cad-9b69-48c11140a3d0)
 
 
